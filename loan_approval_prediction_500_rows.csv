@@ -1,0 +1,501 @@
+Age,Annual_Income,Loan_Amount,Loan_Term_Months,Credit_Score,Employment_Years,Existing_Debt,Dependents,Education,Self_Employed,Property_Area,Loan_Status
+59,69934,427177,24,786,17,314286,0,Graduate,No,Urban,Rejected
+49,72098,126077,48,641,9,56307,2,Not Graduate,No,Urban,Approved
+35,23486,926906,24,552,20,135565,2,Not Graduate,No,Semiurban,Rejected
+28,157407,183515,60,803,3,255095,1,Graduate,Yes,Urban,Approved
+41,104900,256988,12,568,11,312229,3,Not Graduate,No,Rural,Rejected
+59,144020,909751,12,589,7,34228,3,Not Graduate,No,Urban,Rejected
+39,120795,175885,60,719,1,210748,3,Not Graduate,No,Urban,Rejected
+43,160202,946209,12,691,12,445091,1,Graduate,No,Semiurban,Rejected
+31,105508,591656,12,562,20,424871,3,Graduate,No,Semiurban,Rejected
+31,136324,720688,12,572,15,43472,2,Graduate,No,Urban,Approved
+44,78566,238014,48,660,1,311581,0,Graduate,No,Urban,Rejected
+56,45192,141751,48,668,10,442632,2,Graduate,Yes,Rural,Rejected
+60,19062,280203,36,588,9,321855,2,Graduate,No,Urban,Rejected
+44,102076,863738,24,675,14,137888,0,Graduate,No,Urban,Rejected
+23,107780,745275,60,768,16,77175,2,Graduate,No,Rural,Approved
+42,170617,873651,60,572,7,64307,1,Graduate,No,Urban,Rejected
+22,39689,261951,60,744,17,308877,0,Not Graduate,No,Semiurban,Rejected
+44,29174,555155,36,576,8,390346,2,Graduate,No,Urban,Rejected
+50,106461,245716,48,658,7,95028,4,Graduate,No,Urban,Approved
+58,144174,634567,36,823,13,142312,2,Not Graduate,No,Urban,Approved
+22,121033,365172,60,597,17,491450,1,Graduate,No,Urban,Rejected
+41,27348,940695,24,601,19,92493,3,Not Graduate,No,Urban,Rejected
+53,172786,50126,12,631,19,125149,2,Not Graduate,No,Urban,Approved
+32,56102,888761,48,601,20,229416,3,Graduate,No,Rural,Rejected
+42,92460,77632,48,518,11,202435,4,Not Graduate,No,Urban,Rejected
+45,120634,550315,36,581,18,163834,2,Graduate,No,Semiurban,Rejected
+47,107930,770670,48,778,13,270403,0,Graduate,No,Rural,Approved
+48,24801,159945,60,838,16,181211,3,Graduate,Yes,Semiurban,Rejected
+36,121150,367320,60,830,20,390919,4,Graduate,No,Urban,Approved
+35,172697,300869,36,628,2,276993,0,Not Graduate,No,Rural,Rejected
+23,19542,791426,60,843,6,343912,0,Graduate,No,Urban,Rejected
+57,39677,548716,24,809,16,368252,0,Graduate,No,Urban,Approved
+27,57081,225399,36,588,11,351853,0,Graduate,No,Rural,Rejected
+41,111105,512120,24,712,8,317013,2,Graduate,No,Semiurban,Rejected
+29,37065,184869,12,642,14,389032,2,Graduate,No,Semiurban,Rejected
+59,106092,228954,24,564,17,63095,2,Graduate,No,Urban,Rejected
+38,72693,719078,12,575,20,117886,4,Not Graduate,No,Semiurban,Rejected
+24,44962,84560,12,698,12,333054,4,Graduate,Yes,Urban,Rejected
+45,46295,913021,24,642,20,479926,4,Graduate,No,Rural,Rejected
+34,31807,334260,36,815,7,285711,1,Graduate,No,Urban,Rejected
+29,175504,182717,60,592,13,35292,4,Graduate,No,Rural,Approved
+46,150396,228595,60,804,7,74813,2,Not Graduate,No,Semiurban,Approved
+22,109267,698373,12,723,13,97136,2,Graduate,No,Rural,Approved
+40,37870,429862,12,790,6,51631,1,Graduate,No,Semiurban,Approved
+48,44790,855688,36,601,11,9885,1,Graduate,No,Semiurban,Approved
+27,136874,544592,48,766,10,452875,4,Not Graduate,No,Urban,Approved
+28,43289,150158,24,609,10,185378,3,Graduate,Yes,Urban,Rejected
+55,33485,758533,12,829,12,328458,1,Graduate,Yes,Urban,Approved
+34,62482,218502,60,764,17,327231,0,Not Graduate,No,Rural,Rejected
+37,104188,482498,36,502,1,422381,2,Graduate,Yes,Rural,Rejected
+56,22748,956151,24,584,20,452145,0,Not Graduate,Yes,Semiurban,Rejected
+60,158507,380388,36,781,14,460244,2,Not Graduate,No,Urban,Approved
+24,21709,717054,24,827,19,358142,2,Graduate,No,Urban,Approved
+22,141961,368408,24,803,17,49812,1,Graduate,No,Semiurban,Approved
+26,48355,518276,12,616,14,181572,1,Graduate,Yes,Semiurban,Rejected
+24,162188,107545,36,720,18,472367,0,Graduate,No,Rural,Approved
+49,174542,561411,36,653,11,320787,2,Not Graduate,Yes,Rural,Rejected
+38,60918,875656,60,652,12,44900,0,Graduate,No,Urban,Rejected
+46,70224,934377,60,511,10,436162,3,Graduate,No,Semiurban,Rejected
+54,57298,63224,12,632,4,401067,0,Not Graduate,No,Semiurban,Rejected
+30,98219,90738,12,803,0,278432,4,Graduate,No,Urban,Approved
+56,79629,992654,48,792,2,72692,0,Graduate,Yes,Urban,Rejected
+34,84040,900163,60,799,18,460796,4,Graduate,No,Urban,Rejected
+51,46016,230760,24,727,6,400584,4,Graduate,No,Rural,Approved
+35,41960,813978,36,770,11,347580,4,Not Graduate,No,Semiurban,Rejected
+28,51591,516725,12,542,14,227208,3,Graduate,Yes,Semiurban,Rejected
+34,121333,713937,36,842,4,46403,0,Graduate,No,Rural,Approved
+43,132821,582358,36,825,14,91170,0,Graduate,No,Rural,Approved
+60,54395,176161,48,801,7,271312,3,Graduate,No,Urban,Approved
+41,147695,582954,60,520,9,479713,2,Graduate,No,Semiurban,Rejected
+36,171772,894193,12,606,15,312023,1,Graduate,No,Semiurban,Rejected
+38,52620,348512,36,835,7,59871,0,Graduate,No,Rural,Approved
+44,146148,712143,12,802,0,482604,1,Not Graduate,No,Semiurban,Rejected
+46,38559,616202,24,616,11,491862,3,Graduate,No,Semiurban,Rejected
+45,111396,251579,48,623,4,32174,2,Graduate,No,Urban,Rejected
+49,39732,702026,24,780,2,230823,2,Graduate,No,Rural,Rejected
+35,109362,821253,12,791,0,223563,2,Not Graduate,No,Urban,Rejected
+21,179426,554471,12,702,3,137653,3,Not Graduate,No,Urban,Rejected
+45,31843,379670,60,550,7,110155,4,Graduate,No,Urban,Rejected
+27,132065,856388,36,770,2,333997,4,Not Graduate,No,Urban,Rejected
+29,89726,268967,36,823,9,326190,1,Graduate,No,Urban,Approved
+44,35640,882672,24,776,1,311822,4,Graduate,No,Rural,Rejected
+21,70528,433152,48,640,10,288793,4,Graduate,No,Rural,Rejected
+28,56413,144270,36,774,9,127795,2,Graduate,No,Urban,Rejected
+44,70638,841189,60,789,20,88668,2,Not Graduate,Yes,Urban,Rejected
+31,128133,593385,24,833,13,213397,1,Graduate,No,Urban,Rejected
+37,124357,715755,24,551,6,145639,0,Graduate,No,Urban,Rejected
+28,168159,197313,60,526,1,473620,1,Not Graduate,Yes,Urban,Rejected
+55,173576,940324,48,656,8,352050,1,Graduate,No,Rural,Rejected
+55,156186,208768,60,738,15,239141,3,Graduate,No,Urban,Approved
+53,96859,296726,48,655,12,96019,3,Graduate,Yes,Semiurban,Rejected
+25,117657,906912,60,790,8,455160,1,Graduate,No,Urban,Approved
+59,160047,620451,60,635,19,340146,1,Graduate,No,Rural,Rejected
+48,29023,69816,12,643,3,28803,1,Graduate,No,Semiurban,Approved
+27,39447,807907,24,605,9,149302,4,Graduate,No,Rural,Rejected
+29,143899,364997,60,657,11,148934,3,Graduate,No,Rural,Rejected
+28,41959,205989,60,645,16,436571,1,Not Graduate,Yes,Urban,Rejected
+32,84203,671019,36,501,13,424475,2,Graduate,No,Urban,Rejected
+54,137156,726926,24,576,13,230147,2,Graduate,No,Semiurban,Rejected
+53,178775,256524,36,631,1,480661,4,Graduate,No,Urban,Rejected
+43,27337,637111,24,589,20,30795,4,Graduate,Yes,Semiurban,Rejected
+44,64427,201878,36,844,19,270914,0,Graduate,No,Urban,Approved
+57,79529,780880,60,849,10,11093,0,Graduate,Yes,Urban,Approved
+55,120023,576047,60,762,15,439787,0,Graduate,Yes,Semiurban,Rejected
+60,102665,831452,12,850,18,393409,4,Not Graduate,No,Semiurban,Approved
+42,123787,485165,36,607,5,362455,4,Graduate,No,Rural,Rejected
+47,51307,928806,48,573,18,279713,4,Not Graduate,No,Urban,Rejected
+55,176427,183554,12,538,4,273334,2,Graduate,No,Semiurban,Rejected
+21,145016,860874,36,658,3,324968,4,Not Graduate,No,Urban,Rejected
+55,22835,501282,36,570,14,173824,2,Graduate,No,Urban,Rejected
+57,38159,143501,12,811,3,163399,0,Not Graduate,No,Semiurban,Rejected
+34,139790,314223,60,740,19,304214,0,Graduate,No,Urban,Rejected
+23,123616,970221,36,797,9,479141,0,Graduate,No,Urban,Rejected
+21,96752,109676,60,535,2,40197,1,Graduate,No,Urban,Approved
+25,73284,995456,12,583,4,2261,1,Not Graduate,Yes,Urban,Rejected
+46,75043,791804,60,762,5,487121,3,Graduate,No,Urban,Rejected
+34,115007,223532,24,809,20,157584,3,Graduate,Yes,Urban,Approved
+59,100844,664685,48,671,7,399932,3,Graduate,No,Urban,Rejected
+47,45532,647135,36,672,6,348939,1,Graduate,No,Urban,Rejected
+29,140402,667895,48,546,20,291077,1,Graduate,Yes,Semiurban,Rejected
+35,136012,270178,60,640,9,135450,3,Graduate,No,Urban,Rejected
+35,154785,199521,36,617,5,40583,3,Not Graduate,No,Urban,Approved
+46,74178,476752,60,776,13,374226,4,Not Graduate,No,Urban,Approved
+33,67407,638365,24,713,3,347515,3,Not Graduate,No,Semiurban,Rejected
+52,68990,874690,12,719,12,160105,4,Graduate,No,Rural,Rejected
+59,147473,753662,36,525,19,417216,2,Not Graduate,No,Rural,Rejected
+52,76141,307009,24,508,16,111032,1,Not Graduate,No,Semiurban,Rejected
+24,172865,996369,24,770,6,206940,3,Graduate,No,Semiurban,Rejected
+50,74570,187717,36,509,3,304748,1,Graduate,No,Semiurban,Rejected
+57,19015,431915,60,620,13,461552,1,Graduate,No,Semiurban,Rejected
+43,79813,612288,24,624,2,357218,1,Not Graduate,No,Urban,Rejected
+59,45712,601025,48,669,4,226727,2,Graduate,No,Urban,Rejected
+35,118497,847917,24,571,15,73869,0,Graduate,Yes,Urban,Approved
+49,157487,350709,60,651,19,267554,3,Graduate,No,Rural,Rejected
+56,130816,993026,60,707,3,345519,0,Not Graduate,No,Semiurban,Rejected
+33,146778,956046,48,548,1,187116,0,Not Graduate,No,Semiurban,Rejected
+52,80292,901587,24,653,17,194387,0,Not Graduate,No,Urban,Rejected
+27,41833,236240,60,846,18,358199,1,Graduate,No,Semiurban,Approved
+42,153230,626775,36,792,18,202416,4,Graduate,No,Urban,Approved
+48,38309,966380,12,567,16,400012,1,Graduate,No,Urban,Rejected
+22,24970,324486,12,549,13,86716,1,Graduate,Yes,Rural,Rejected
+26,90474,352950,12,651,18,54245,0,Graduate,No,Semiurban,Approved
+48,64540,360914,24,518,12,43056,1,Graduate,No,Urban,Rejected
+48,169456,128623,48,599,11,410925,0,Graduate,No,Rural,Rejected
+40,36017,415321,60,559,5,250736,4,Graduate,No,Urban,Rejected
+50,93880,967458,36,666,20,320701,3,Not Graduate,No,Rural,Rejected
+31,123570,912061,36,701,3,279687,0,Graduate,No,Urban,Rejected
+48,26702,957425,24,844,18,430634,4,Not Graduate,No,Urban,Rejected
+45,149456,233675,12,645,15,225683,3,Graduate,No,Urban,Rejected
+59,18404,963376,24,663,12,496507,2,Graduate,No,Urban,Rejected
+53,178261,787334,48,741,3,496217,0,Graduate,Yes,Urban,Rejected
+21,30763,680235,48,568,16,358182,0,Graduate,No,Semiurban,Rejected
+47,167456,862831,60,674,0,409940,2,Graduate,Yes,Rural,Rejected
+33,116142,702465,60,548,17,265972,2,Graduate,No,Rural,Rejected
+23,158932,266454,48,607,19,116656,0,Graduate,Yes,Urban,Rejected
+59,98642,159575,48,725,16,17087,2,Graduate,No,Semiurban,Approved
+26,68612,947336,48,660,14,405821,1,Graduate,No,Urban,Rejected
+28,41574,257606,24,618,10,293481,3,Not Graduate,No,Urban,Rejected
+47,41524,555815,48,648,12,136554,3,Not Graduate,Yes,Semiurban,Rejected
+29,28916,342822,36,649,0,327477,3,Not Graduate,Yes,Semiurban,Rejected
+57,22809,126218,12,792,16,485757,1,Graduate,Yes,Urban,Rejected
+53,162528,637518,48,642,5,481512,2,Not Graduate,Yes,Urban,Rejected
+44,139288,820044,12,659,3,182024,4,Not Graduate,No,Rural,Rejected
+35,56765,386199,24,510,19,136535,2,Graduate,No,Urban,Rejected
+52,63106,499589,12,637,15,243236,0,Not Graduate,No,Semiurban,Rejected
+52,71932,736840,24,577,14,70448,3,Graduate,Yes,Semiurban,Rejected
+44,166172,528446,36,576,14,4648,2,Not Graduate,No,Urban,Approved
+32,75091,512052,24,753,5,392720,4,Not Graduate,No,Urban,Rejected
+59,39949,384402,24,757,14,295767,0,Graduate,No,Urban,Approved
+22,55744,89986,60,819,13,452372,1,Graduate,No,Rural,Approved
+23,126319,729520,48,790,10,35634,1,Not Graduate,No,Semiurban,Approved
+57,110193,397739,48,762,6,437818,4,Graduate,Yes,Semiurban,Rejected
+37,54187,675646,36,584,8,376742,0,Graduate,No,Rural,Rejected
+22,156311,522327,36,645,15,311478,3,Not Graduate,No,Rural,Rejected
+22,142454,377073,48,822,4,330792,2,Graduate,Yes,Semiurban,Rejected
+48,32489,647794,60,541,19,22054,0,Graduate,No,Semiurban,Rejected
+43,79877,84911,48,624,9,70028,1,Graduate,No,Semiurban,Rejected
+57,67922,923559,60,666,17,22207,4,Graduate,Yes,Semiurban,Rejected
+52,112074,475037,36,740,2,473866,4,Graduate,No,Semiurban,Approved
+53,55131,780399,12,779,12,230893,2,Graduate,No,Semiurban,Rejected
+21,133765,949885,36,687,10,81554,4,Graduate,No,Urban,Rejected
+39,91963,658746,36,801,16,152458,4,Graduate,Yes,Semiurban,Approved
+22,124884,62175,24,518,12,83276,0,Not Graduate,No,Urban,Rejected
+46,143917,955667,24,567,5,452734,3,Graduate,No,Urban,Rejected
+52,42285,366915,24,717,16,314925,2,Graduate,No,Urban,Rejected
+26,55626,549876,24,601,12,183852,0,Graduate,No,Semiurban,Rejected
+52,37198,963589,60,541,18,192512,3,Graduate,Yes,Semiurban,Rejected
+24,168830,695588,48,787,20,437415,0,Graduate,Yes,Urban,Approved
+31,33254,661213,12,666,18,323179,0,Graduate,No,Semiurban,Rejected
+37,62238,818734,36,608,9,8210,4,Not Graduate,No,Semiurban,Rejected
+58,19252,116358,60,535,2,44363,3,Graduate,No,Urban,Rejected
+44,57764,460543,12,731,13,242247,2,Graduate,No,Semiurban,Rejected
+25,95709,97057,60,728,18,78279,2,Graduate,No,Rural,Approved
+54,71682,318294,60,663,4,191420,3,Graduate,No,Rural,Rejected
+26,77494,840857,36,572,4,186356,4,Graduate,No,Semiurban,Rejected
+42,99317,304726,48,635,19,203196,1,Graduate,Yes,Semiurban,Rejected
+31,83215,328176,24,569,16,199919,0,Graduate,No,Urban,Rejected
+36,96587,576486,48,695,20,415648,4,Not Graduate,No,Urban,Rejected
+53,24949,758754,36,768,9,257324,3,Graduate,No,Urban,Rejected
+29,73393,987583,36,548,4,195161,0,Graduate,No,Rural,Rejected
+26,156013,217292,36,815,3,448614,2,Graduate,Yes,Urban,Approved
+36,43934,194931,12,629,5,230363,1,Graduate,Yes,Urban,Rejected
+49,172458,493676,48,504,3,134393,2,Graduate,Yes,Rural,Rejected
+23,93745,212491,48,526,6,343492,3,Graduate,No,Rural,Rejected
+40,112456,431009,60,659,6,430599,0,Graduate,No,Rural,Rejected
+56,71413,451921,60,648,17,375960,3,Graduate,No,Urban,Rejected
+39,115239,310910,60,763,2,209754,0,Graduate,Yes,Urban,Rejected
+46,60318,73236,36,729,0,123053,4,Graduate,No,Urban,Rejected
+23,88390,137955,48,699,3,472406,1,Graduate,No,Urban,Rejected
+39,61088,790874,36,549,5,183965,4,Graduate,No,Urban,Rejected
+40,121196,677433,12,566,8,166892,4,Graduate,No,Semiurban,Rejected
+52,73479,720718,60,799,13,328406,3,Not Graduate,No,Rural,Rejected
+27,37963,280785,36,557,11,134832,1,Graduate,No,Urban,Rejected
+53,73123,144914,36,758,19,153262,0,Not Graduate,Yes,Semiurban,Rejected
+60,143911,939302,12,841,3,67411,0,Graduate,No,Semiurban,Approved
+59,120468,257990,24,825,20,285521,2,Graduate,Yes,Urban,Approved
+38,91477,428387,48,629,11,439953,0,Graduate,No,Semiurban,Rejected
+60,32388,588884,24,714,9,462785,3,Graduate,No,Urban,Rejected
+21,23569,706639,60,671,6,38211,4,Graduate,No,Urban,Rejected
+31,87836,244269,36,757,2,213981,4,Not Graduate,No,Semiurban,Rejected
+48,122573,947928,12,601,13,265888,4,Graduate,No,Urban,Rejected
+45,161087,442417,12,708,9,256638,1,Not Graduate,No,Rural,Rejected
+43,63002,188155,48,790,15,287139,0,Graduate,No,Urban,Approved
+51,155326,170674,24,785,15,148049,3,Not Graduate,No,Semiurban,Approved
+50,166216,956739,48,615,9,229010,1,Graduate,No,Semiurban,Rejected
+55,173286,831817,36,763,12,34542,2,Not Graduate,No,Urban,Approved
+27,155162,814757,48,649,5,10651,3,Graduate,No,Urban,Approved
+36,160709,985275,12,799,11,99239,3,Graduate,No,Semiurban,Approved
+46,171487,997479,12,535,8,341075,3,Graduate,No,Rural,Rejected
+22,42071,306713,60,832,12,226416,4,Not Graduate,No,Rural,Approved
+21,76243,491501,60,786,3,364256,3,Graduate,No,Semiurban,Rejected
+32,143827,593351,36,802,10,278859,0,Not Graduate,Yes,Rural,Approved
+25,126215,117642,24,810,19,437625,3,Graduate,No,Semiurban,Rejected
+57,119570,140093,48,707,17,155378,4,Not Graduate,Yes,Semiurban,Approved
+52,87724,557606,36,605,10,150158,3,Not Graduate,No,Semiurban,Rejected
+29,133359,267215,60,657,20,407592,2,Not Graduate,No,Semiurban,Rejected
+55,93697,757280,48,620,3,323494,2,Graduate,No,Rural,Rejected
+39,46732,733889,60,554,17,333569,4,Graduate,No,Urban,Rejected
+36,139465,85954,48,511,0,496574,0,Not Graduate,No,Rural,Rejected
+23,160386,77856,24,644,6,429852,0,Graduate,No,Semiurban,Rejected
+40,173026,576861,36,635,5,348264,1,Graduate,No,Urban,Rejected
+44,75108,609655,48,502,14,377033,4,Graduate,No,Urban,Rejected
+53,129195,545553,12,643,17,444865,3,Not Graduate,No,Urban,Rejected
+44,121081,812092,12,529,10,427826,4,Graduate,No,Semiurban,Rejected
+31,54668,936040,48,736,19,141130,1,Graduate,No,Rural,Rejected
+28,41061,372918,48,778,14,255948,4,Not Graduate,No,Urban,Rejected
+56,97252,73752,48,847,15,336781,4,Graduate,No,Rural,Approved
+58,57749,891461,12,614,6,471249,1,Not Graduate,No,Rural,Rejected
+60,148560,198757,12,603,20,332338,0,Graduate,No,Urban,Rejected
+40,122680,966714,48,617,9,339061,3,Graduate,No,Rural,Rejected
+55,165979,363837,60,504,11,64200,1,Graduate,No,Rural,Approved
+45,167849,166739,60,747,13,105848,2,Graduate,Yes,Semiurban,Approved
+55,69745,892393,24,820,4,106022,0,Not Graduate,No,Rural,Rejected
+45,126464,288009,36,620,20,177691,2,Graduate,No,Rural,Rejected
+49,109865,830316,60,785,17,410370,0,Graduate,No,Semiurban,Rejected
+38,130428,257980,12,648,4,412755,3,Graduate,No,Urban,Rejected
+38,41624,306609,60,583,2,256453,3,Graduate,No,Rural,Rejected
+22,41321,438822,24,730,4,322202,4,Graduate,No,Semiurban,Rejected
+55,159560,386676,24,787,16,62068,2,Graduate,No,Semiurban,Approved
+36,40574,394138,36,660,18,470529,0,Graduate,Yes,Urban,Rejected
+56,154312,368277,60,771,18,362076,3,Not Graduate,No,Rural,Rejected
+53,159550,568271,12,537,20,161445,1,Graduate,No,Urban,Rejected
+24,168334,373412,12,725,11,164226,3,Graduate,No,Rural,Approved
+53,136831,535417,48,641,8,137103,1,Graduate,No,Urban,Rejected
+34,153504,481459,12,791,0,224605,0,Not Graduate,Yes,Urban,Rejected
+41,113257,238456,36,650,17,203047,3,Graduate,No,Semiurban,Approved
+40,82291,605941,36,613,20,284929,3,Graduate,No,Urban,Rejected
+28,145600,207729,12,736,3,472144,0,Graduate,No,Semiurban,Rejected
+27,68428,989684,12,565,9,249768,3,Not Graduate,No,Rural,Rejected
+23,149374,278504,48,840,6,159741,1,Graduate,No,Rural,Approved
+37,149127,696117,12,757,0,94475,3,Not Graduate,No,Urban,Approved
+53,129317,702665,48,748,16,2282,2,Graduate,No,Urban,Approved
+32,157789,575910,48,830,1,165696,4,Graduate,No,Rural,Approved
+42,145449,623044,12,822,10,179510,1,Not Graduate,Yes,Rural,Approved
+42,46699,90809,24,679,8,220972,2,Graduate,No,Semiurban,Rejected
+50,91686,591013,24,689,6,329678,0,Not Graduate,No,Semiurban,Rejected
+58,85661,766756,48,653,16,162777,1,Not Graduate,No,Urban,Rejected
+58,62247,101226,12,695,16,431460,4,Not Graduate,No,Rural,Approved
+28,165820,549512,24,810,1,337108,4,Graduate,No,Semiurban,Approved
+47,123113,655470,12,761,5,168509,0,Not Graduate,No,Urban,Approved
+47,22621,525781,12,642,13,208944,0,Graduate,No,Urban,Rejected
+54,164106,79402,12,841,5,468094,1,Not Graduate,No,Rural,Approved
+41,154198,54263,60,815,1,119006,3,Graduate,No,Urban,Approved
+50,154194,801883,12,600,0,236440,0,Not Graduate,No,Urban,Rejected
+53,36030,227900,60,743,9,204054,3,Graduate,No,Semiurban,Rejected
+48,100838,622212,48,511,20,312727,2,Graduate,No,Urban,Rejected
+53,102717,386326,24,738,4,300536,4,Graduate,Yes,Urban,Rejected
+25,56638,274137,24,548,1,7461,3,Not Graduate,No,Rural,Rejected
+39,85067,502268,24,541,15,100123,4,Graduate,No,Rural,Rejected
+24,136033,979168,24,665,1,272660,3,Graduate,No,Rural,Rejected
+55,123977,347881,24,581,9,472501,2,Not Graduate,No,Rural,Rejected
+37,106869,413476,24,790,1,148586,0,Graduate,No,Semiurban,Rejected
+48,123186,401707,24,657,15,383395,2,Graduate,Yes,Rural,Rejected
+50,52674,734733,48,715,15,494178,0,Graduate,No,Urban,Rejected
+49,64271,560585,12,657,18,429484,0,Graduate,No,Semiurban,Rejected
+26,91688,741757,36,633,6,483702,4,Graduate,No,Rural,Rejected
+55,129076,440719,60,566,11,231496,2,Graduate,No,Urban,Rejected
+57,159339,529361,36,835,14,167860,3,Graduate,No,Urban,Approved
+44,19062,151371,36,506,7,206821,2,Graduate,No,Semiurban,Rejected
+49,68448,612997,12,513,5,192121,4,Not Graduate,No,Urban,Rejected
+51,113462,242192,12,572,9,324637,0,Graduate,No,Urban,Rejected
+55,155301,200322,12,662,2,36027,4,Graduate,No,Rural,Approved
+53,65915,71172,24,565,18,355691,1,Not Graduate,No,Rural,Rejected
+41,22632,585843,48,846,16,173921,1,Graduate,No,Semiurban,Rejected
+52,122592,627564,24,629,6,362271,3,Graduate,No,Urban,Rejected
+43,152668,631780,48,705,20,148930,4,Not Graduate,Yes,Urban,Approved
+53,127779,758362,48,775,19,215234,3,Not Graduate,No,Rural,Rejected
+23,155240,563319,36,755,3,79003,3,Not Graduate,No,Semiurban,Approved
+38,126099,830298,36,765,13,183467,1,Not Graduate,No,Urban,Rejected
+45,25561,926031,48,524,19,39758,3,Not Graduate,Yes,Semiurban,Rejected
+51,100152,272320,48,780,14,316456,1,Graduate,Yes,Urban,Rejected
+23,143036,467978,24,752,7,330814,0,Not Graduate,No,Semiurban,Rejected
+60,142049,61046,24,809,20,82279,4,Graduate,No,Rural,Approved
+44,44734,278071,36,788,14,15434,3,Not Graduate,No,Semiurban,Approved
+52,155443,428165,12,663,19,195119,1,Graduate,No,Semiurban,Rejected
+42,44069,996273,48,594,13,440991,2,Graduate,No,Urban,Rejected
+43,30910,758662,24,769,8,337913,3,Graduate,No,Semiurban,Rejected
+22,91479,466366,36,820,7,245754,0,Not Graduate,No,Semiurban,Rejected
+47,99264,316997,24,609,16,328821,0,Graduate,No,Urban,Rejected
+22,41275,695188,48,835,1,83555,2,Not Graduate,No,Semiurban,Rejected
+46,90274,532615,48,809,2,128379,1,Not Graduate,No,Urban,Approved
+37,118776,465008,60,737,7,216992,3,Graduate,No,Rural,Rejected
+60,66447,633417,12,524,11,239511,1,Not Graduate,Yes,Semiurban,Rejected
+53,144394,811379,60,640,0,176806,0,Not Graduate,No,Rural,Rejected
+29,93703,255550,36,616,9,363809,1,Graduate,No,Urban,Rejected
+59,94090,294883,24,524,19,481719,0,Graduate,No,Rural,Rejected
+49,35260,688418,36,578,2,433819,1,Graduate,No,Semiurban,Rejected
+46,130581,510514,48,567,5,469924,2,Graduate,No,Rural,Rejected
+55,21812,999491,60,672,6,475142,4,Graduate,Yes,Urban,Rejected
+45,177096,721210,60,511,19,68803,2,Not Graduate,No,Semiurban,Rejected
+44,134148,979616,60,787,17,432548,2,Graduate,No,Rural,Approved
+33,176357,171789,36,627,10,353847,4,Not Graduate,No,Urban,Rejected
+27,134421,729418,48,595,18,283456,4,Graduate,Yes,Urban,Rejected
+56,19605,750780,24,591,4,224448,3,Graduate,No,Semiurban,Rejected
+40,90303,613178,24,640,18,477742,3,Not Graduate,No,Semiurban,Rejected
+21,176211,116017,36,530,10,175251,2,Not Graduate,No,Urban,Rejected
+28,94125,228376,60,833,11,202514,2,Graduate,No,Urban,Approved
+36,162990,738281,12,519,9,245404,0,Graduate,No,Urban,Rejected
+34,176518,549137,36,645,7,117961,0,Graduate,No,Rural,Approved
+32,142040,706884,36,815,8,302523,3,Graduate,No,Semiurban,Approved
+43,162118,674712,48,659,3,17297,3,Graduate,No,Rural,Approved
+35,173890,851480,24,848,4,264155,0,Graduate,No,Rural,Approved
+48,22324,743264,36,542,20,120234,0,Graduate,No,Semiurban,Rejected
+54,94323,891344,36,753,7,44014,1,Not Graduate,No,Urban,Rejected
+22,27111,608296,60,629,8,243166,1,Graduate,No,Urban,Rejected
+52,34389,443276,60,559,14,404954,0,Graduate,No,Urban,Rejected
+43,140177,780026,12,650,14,356477,1,Graduate,No,Rural,Rejected
+42,59427,657847,48,786,15,178570,4,Not Graduate,Yes,Semiurban,Rejected
+45,177818,105337,12,504,13,258864,3,Not Graduate,No,Urban,Rejected
+42,140883,947048,60,765,7,273264,3,Graduate,No,Urban,Rejected
+42,149189,325494,24,844,17,401983,0,Not Graduate,Yes,Semiurban,Approved
+26,143808,74354,60,629,9,284996,2,Graduate,No,Semiurban,Rejected
+35,130221,95186,48,766,19,341383,0,Graduate,No,Urban,Approved
+57,31234,602433,60,677,5,394145,1,Graduate,No,Rural,Rejected
+53,71441,477236,48,752,11,208559,2,Graduate,No,Semiurban,Rejected
+28,18846,660411,48,555,1,91575,1,Not Graduate,No,Urban,Rejected
+25,28954,549883,48,582,6,95040,4,Not Graduate,Yes,Rural,Rejected
+59,97239,780546,48,598,15,148510,1,Graduate,Yes,Urban,Rejected
+24,64514,790829,48,648,2,179587,4,Graduate,No,Rural,Rejected
+26,106236,594869,24,828,12,5744,4,Graduate,No,Rural,Approved
+52,115579,663217,12,655,2,214892,1,Graduate,No,Semiurban,Rejected
+50,155541,335195,36,689,17,435633,1,Graduate,No,Rural,Approved
+55,179177,625762,12,762,10,498500,4,Graduate,No,Urban,Approved
+60,60101,666036,48,579,7,400285,2,Graduate,No,Rural,Rejected
+36,82323,175995,24,751,5,304503,4,Graduate,Yes,Semiurban,Rejected
+33,109922,295690,60,596,0,150871,3,Graduate,Yes,Semiurban,Rejected
+50,145534,381770,24,759,0,360890,4,Graduate,Yes,Rural,Rejected
+39,85584,843392,48,759,7,224834,2,Not Graduate,No,Rural,Rejected
+37,122537,478988,24,602,4,120906,3,Graduate,No,Rural,Rejected
+39,96477,989024,24,539,15,201260,0,Not Graduate,No,Urban,Rejected
+48,60533,230553,48,772,10,220931,0,Graduate,Yes,Rural,Approved
+46,19828,610696,24,600,4,253593,2,Not Graduate,No,Semiurban,Rejected
+57,19917,930438,36,807,3,238746,4,Not Graduate,Yes,Rural,Rejected
+46,38618,309568,36,720,5,7597,1,Graduate,No,Semiurban,Approved
+43,50254,369278,24,807,13,309237,2,Graduate,No,Urban,Approved
+29,123292,201563,60,623,18,430442,3,Not Graduate,No,Urban,Rejected
+32,65362,706701,48,730,8,203199,3,Graduate,No,Semiurban,Approved
+21,38128,749983,36,677,11,376794,0,Graduate,No,Rural,Rejected
+21,141781,664615,60,562,10,484585,3,Graduate,No,Urban,Rejected
+54,83545,443554,24,615,13,208434,2,Graduate,No,Semiurban,Rejected
+52,100180,252503,60,690,15,157489,3,Graduate,No,Urban,Rejected
+45,105958,193326,12,561,0,411909,2,Not Graduate,No,Rural,Rejected
+60,158937,757220,36,755,12,472890,1,Graduate,No,Semiurban,Rejected
+21,151291,61344,24,506,20,383100,0,Graduate,No,Urban,Rejected
+36,57809,444966,48,654,20,115598,3,Not Graduate,Yes,Urban,Rejected
+59,134748,642245,24,591,12,250100,2,Graduate,No,Urban,Rejected
+25,23287,155423,48,513,1,258589,4,Not Graduate,No,Semiurban,Rejected
+42,26512,370197,24,728,3,184233,0,Graduate,No,Urban,Rejected
+49,150414,514071,60,585,5,252388,1,Graduate,No,Urban,Rejected
+23,126872,721256,60,632,4,133241,2,Not Graduate,No,Rural,Rejected
+32,168288,236833,60,682,2,215164,1,Graduate,No,Rural,Rejected
+46,111070,767912,12,561,0,153124,1,Not Graduate,Yes,Semiurban,Rejected
+36,97767,825435,48,718,3,465065,3,Not Graduate,No,Rural,Rejected
+57,115829,127454,60,745,19,204923,3,Not Graduate,Yes,Urban,Approved
+42,175686,307594,12,729,1,8036,2,Graduate,No,Semiurban,Approved
+49,60078,561897,48,578,4,31778,4,Not Graduate,No,Semiurban,Rejected
+34,124288,402744,24,648,2,420950,2,Graduate,Yes,Semiurban,Rejected
+48,101524,959164,12,637,8,154245,4,Graduate,No,Urban,Rejected
+25,30219,566142,36,813,19,161475,1,Not Graduate,No,Semiurban,Approved
+50,18235,995439,12,564,5,459537,0,Graduate,No,Semiurban,Rejected
+25,60929,87641,12,512,17,202747,2,Not Graduate,No,Semiurban,Rejected
+32,145309,603999,48,712,5,399560,2,Not Graduate,No,Urban,Rejected
+36,85444,906774,24,741,18,18800,4,Not Graduate,Yes,Urban,Approved
+46,157639,419040,36,712,11,287516,1,Graduate,No,Urban,Rejected
+46,119834,717542,60,680,10,323660,1,Not Graduate,Yes,Urban,Rejected
+41,102555,662121,60,837,1,282682,4,Graduate,No,Semiurban,Approved
+59,91698,368420,12,672,14,326062,1,Not Graduate,Yes,Urban,Rejected
+56,142450,331685,48,659,11,408189,3,Graduate,No,Rural,Rejected
+53,154487,930889,48,663,11,333299,0,Graduate,No,Urban,Rejected
+50,61925,525526,60,687,8,231312,2,Graduate,No,Urban,Rejected
+57,155023,94813,36,690,20,59500,0,Graduate,No,Semiurban,Approved
+43,105388,742558,24,807,1,167647,2,Graduate,No,Urban,Rejected
+30,26007,714180,36,755,2,236527,3,Not Graduate,No,Semiurban,Rejected
+25,76596,336214,24,682,11,435477,1,Graduate,Yes,Semiurban,Rejected
+56,139101,978626,60,616,15,110659,4,Graduate,No,Urban,Approved
+54,179595,392703,24,781,20,27716,3,Graduate,No,Urban,Approved
+51,106861,254615,48,695,0,396452,0,Graduate,Yes,Urban,Rejected
+30,104740,526657,12,533,20,409064,4,Graduate,Yes,Urban,Rejected
+39,33524,616074,12,551,2,2352,1,Graduate,No,Urban,Rejected
+52,168354,800294,60,611,19,133004,3,Graduate,Yes,Urban,Rejected
+21,173002,805164,48,751,1,338593,4,Graduate,No,Urban,Rejected
+25,149149,449953,36,581,8,8556,3,Graduate,No,Semiurban,Approved
+24,143501,872494,48,731,18,261973,3,Graduate,No,Semiurban,Rejected
+36,38611,888003,12,726,14,348980,1,Graduate,No,Semiurban,Rejected
+44,166056,337654,12,732,17,136570,2,Not Graduate,No,Urban,Approved
+36,32060,331570,48,720,10,207190,4,Not Graduate,No,Urban,Rejected
+22,61303,87265,48,541,15,50098,1,Graduate,No,Rural,Rejected
+48,178359,985354,12,520,16,457602,3,Not Graduate,No,Semiurban,Rejected
+52,57711,299321,36,541,4,374313,1,Graduate,No,Rural,Rejected
+47,161026,116150,60,612,11,140641,2,Graduate,No,Urban,Approved
+40,91340,661600,60,604,10,247199,4,Not Graduate,No,Semiurban,Rejected
+44,120974,139613,48,691,14,126060,2,Graduate,No,Semiurban,Approved
+32,167646,387054,60,516,2,187954,0,Not Graduate,No,Urban,Rejected
+55,158256,888807,12,619,0,201465,4,Graduate,No,Semiurban,Rejected
+53,168168,171826,12,628,19,130544,2,Graduate,No,Semiurban,Approved
+53,85728,609723,48,629,15,340,3,Graduate,Yes,Urban,Approved
+57,29246,932875,48,559,1,175021,4,Not Graduate,No,Urban,Rejected
+32,167453,500348,48,547,1,82302,4,Graduate,No,Rural,Rejected
+23,145796,260017,36,528,2,455659,1,Not Graduate,Yes,Rural,Rejected
+21,110263,184055,60,596,7,222740,3,Graduate,Yes,Urban,Rejected
+53,153090,540457,48,509,14,467243,0,Graduate,Yes,Urban,Rejected
+60,29302,726022,24,741,6,138,2,Graduate,No,Urban,Approved
+30,85506,859942,24,813,5,393574,1,Graduate,No,Semiurban,Rejected
+49,59157,783547,12,731,8,119619,2,Not Graduate,No,Urban,Rejected
+33,72917,746358,60,776,19,468466,0,Graduate,No,Rural,Rejected
+32,114646,500062,48,783,0,347520,0,Not Graduate,Yes,Urban,Rejected
+51,101122,144071,24,702,7,99931,4,Not Graduate,No,Urban,Approved
+22,42519,843072,60,746,2,423870,0,Graduate,No,Semiurban,Rejected
+55,98910,356691,12,789,3,156951,2,Graduate,No,Rural,Approved
+43,138430,891052,36,763,14,343676,3,Graduate,Yes,Semiurban,Rejected
+37,89324,196389,60,713,5,317922,3,Graduate,No,Semiurban,Rejected
+46,23408,689896,60,699,14,37772,4,Graduate,No,Rural,Rejected
+28,77379,319708,36,578,20,58478,2,Graduate,Yes,Urban,Rejected
+49,43053,732705,60,842,2,457569,2,Graduate,Yes,Rural,Rejected
+46,158518,688112,12,843,20,26762,0,Graduate,No,Urban,Approved
+30,149994,304444,12,672,20,144355,2,Graduate,Yes,Rural,Rejected
+46,116723,653561,36,568,13,194994,1,Graduate,No,Semiurban,Rejected
+54,69356,911291,48,586,19,170492,0,Graduate,No,Urban,Rejected
+27,28789,261837,24,600,13,317712,1,Not Graduate,No,Rural,Rejected
+24,115720,160017,48,507,3,347234,4,Graduate,No,Urban,Rejected
+31,84656,173618,60,832,11,282363,3,Graduate,Yes,Urban,Rejected
+49,62028,509297,24,699,16,319313,4,Not Graduate,Yes,Semiurban,Rejected
+56,82484,175341,36,586,6,493671,3,Graduate,No,Urban,Rejected
+45,50154,865862,36,542,8,74965,4,Graduate,No,Semiurban,Rejected
+41,20336,780892,24,608,2,177912,2,Graduate,No,Urban,Rejected
+56,121677,602076,12,651,12,175767,1,Graduate,No,Urban,Approved
+30,85779,800865,24,516,14,236281,3,Graduate,No,Urban,Rejected
+57,37029,491759,60,632,17,84754,0,Graduate,Yes,Urban,Rejected
+29,77201,981423,12,647,18,77988,1,Graduate,No,Semiurban,Approved
+44,50265,905778,36,776,0,451558,0,Graduate,Yes,Rural,Rejected
+55,120916,932554,24,731,5,150023,1,Not Graduate,No,Rural,Approved
+55,64197,614262,48,813,1,132379,1,Not Graduate,No,Rural,Rejected
+56,143733,943741,48,727,13,80388,4,Graduate,No,Urban,Approved
+38,172782,590659,60,638,5,352912,3,Not Graduate,No,Semiurban,Rejected
+59,178558,881516,48,710,13,297572,3,Graduate,No,Urban,Rejected
+52,89907,472845,24,527,3,239779,1,Graduate,No,Urban,Rejected
+44,146876,756544,24,550,20,354165,2,Not Graduate,No,Semiurban,Rejected
+43,82435,374060,48,760,7,380562,2,Graduate,No,Urban,Rejected
+52,58631,648260,24,760,2,206846,0,Graduate,No,Urban,Rejected
+57,147038,243259,60,849,18,170047,0,Graduate,No,Rural,Approved
+32,38103,325128,12,507,13,132212,4,Graduate,No,Semiurban,Rejected
+33,82772,869471,60,819,19,418058,1,Not Graduate,No,Semiurban,Rejected
+43,144108,659719,60,637,16,288565,0,Not Graduate,No,Urban,Rejected
+45,32382,920123,24,537,7,263852,0,Not Graduate,No,Urban,Rejected
+55,102291,895038,12,610,13,396846,1,Not Graduate,Yes,Rural,Rejected
+50,119195,453832,24,719,5,412811,4,Graduate,No,Urban,Rejected
+37,152828,939097,36,836,15,76021,0,Graduate,No,Semiurban,Approved
+40,38609,679661,24,722,18,159380,4,Graduate,No,Urban,Rejected
+45,165550,231144,24,635,13,44789,3,Graduate,No,Semiurban,Approved
+42,93683,861006,24,755,18,448906,4,Graduate,No,Urban,Approved
+33,142714,970934,12,828,2,26086,2,Not Graduate,Yes,Rural,Approved
+39,148330,300195,24,548,9,279003,2,Graduate,No,Rural,Rejected
+56,89315,193748,12,791,18,7684,4,Graduate,No,Rural,Approved
+32,95834,454032,48,823,8,91088,2,Graduate,No,Urban,Approved
+39,144205,82733,36,577,19,394423,3,Graduate,No,Rural,Rejected
+32,32153,791040,12,604,12,46099,1,Not Graduate,No,Semiurban,Rejected
+29,94325,576338,48,668,6,460712,2,Graduate,No,Urban,Rejected
+27,162071,159996,12,716,13,66093,2,Graduate,No,Semiurban,Approved
+48,73318,608221,12,618,8,160761,4,Not Graduate,No,Urban,Rejected
+34,149886,599239,36,689,18,310795,3,Graduate,No,Urban,Rejected
